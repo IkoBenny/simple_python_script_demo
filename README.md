@@ -9,6 +9,11 @@ If you quit from the Python interpreter and enter it again, the definitions you 
 </details>
 
 <details>
+<summary>Project Purpose</summary>
+To support existing development and future skill development, the use of scripting languauges could prove useful. For example, to automate downloads of multiple box scores. Planned for usage during bet_buddy development. See bet_buddy repository for more details. 
+</details>
+
+<details>
 <summary>Modules</summary>
 To support this, Python has a way to put definitions in a file and use them in a script or in an interactive instance of the interpreter. Such a file is called a module; definitions from a module can be imported into other modules or into the main module (the collection of variables that you have access to in a script executed at the top level and in calculator mode).
 
